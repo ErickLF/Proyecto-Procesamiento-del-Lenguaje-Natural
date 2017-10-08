@@ -3,7 +3,6 @@ Pectus_excavatum
 Pectus_carinatum
 Onfalocele
 Período_prepatogénico
-Etapas_de_la_enfermedad
 Enfermedad_gastrointestinal
 Mal_de_montaña_crónico
 Fibrosis
